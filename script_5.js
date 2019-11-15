@@ -21,8 +21,8 @@ const books = [
       });
       return true;
   };
-//   console.log("Have all the books been borrowed at least once?")
-//   console.log(are_all_borrowed_once());
+   console.log("Have all the books been borrowed at least once?")
+   console.log(are_all_borrowed_once());
 
   function the_most_borrowed(){
     let rent = [];
@@ -39,8 +39,8 @@ const books = [
         });
     console.log(most_borrowed);
   };
-//    console.log("What is the most borrowed book?");
-//     the_most_borrowed()
+    console.log("What is the most borrowed book?");
+     the_most_borrowed()
 
     function the_least_borrowed(){
         let rent = [];
@@ -57,8 +57,8 @@ const books = [
         });
     console.log(least_borrowed);
     };
-//   console.log("What is the least borrowed book?");
-//    the_least_borrowed()
+   console.log("What is the least borrowed book?");
+    the_least_borrowed()
 
     function find_by_id(index){
         let bookByid = [];
@@ -70,8 +70,8 @@ const books = [
     console.log(bookByid);
     };
 
-//      console.log("Find the book by ID");
-//      find_by_id(873495);
+      console.log("Find the book by ID");
+      find_by_id(873495);
 
     function erase_and_stock(index){
         let bookByid = [];
@@ -83,8 +83,8 @@ const books = [
     console.log(bookByid);
     };
 
-//   console.log("Erase the book by ID");
-//   erase_and_stock(133712);    
+   console.log("Erase the book by ID");
+   erase_and_stock(133712);    
 
     function ordered_book(){
         let bookByid = [];
