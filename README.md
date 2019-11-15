@@ -10,7 +10,7 @@ Showing function in console by using <script src="script_id.js"></script> in ind
 
 ### How to use: 
 
-#### Just change id by number 1 to 7:
+#### Just change id by number between 1 and 7:
 
 ##### Use 1 : function that say Hello!!!
 ##### Use 2 : function that factorize number.
